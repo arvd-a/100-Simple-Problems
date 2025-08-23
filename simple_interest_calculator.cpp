@@ -6,7 +6,7 @@ int main() {
     float rate;
     float time;
 
-    //Assigning value for Principal vale
+    //Assigning value for Principal value
     cout << "Enter the Principal value: ";
     cin >> principal_value;
 
